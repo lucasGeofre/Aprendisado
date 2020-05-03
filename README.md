@@ -1,2 +1,2 @@
 # Aprendisado
- para ajudar no processo de ensino de programação
+ nessa agenda de compromissos falta varias funções, tais como: alterar compromissos e deletar compromisso
